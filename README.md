@@ -1,4 +1,4 @@
-Hello, my name is Robert McCourt, I am a senior Computer Science undergraduate student at the University of New Mexico. 
+Hello, my name is Robert McCourt. I have completed my undergraduate coursework in Computer Science at the University of New Mexico and am now taking pre-medical prerequisite courses to prepare for medical school. I am passionate about applying computational and analytical skills to advance biomedical research and healthcare.
 
 My interests include:
 - High Performance Computing (HPC)
@@ -6,8 +6,11 @@ My interests include:
 - Parallelism (OpenMP)
 - GPU Programming (CUDA)
 - Embedded Systems (Arduino, PCB)
-- Learning new languages and libraries. I am currently teaching myself Swift!
+- Learning new languages and libraries
 - Quantum Computing
+- Biomedical Research
+- Cellular & Molecular Biology
+- General & Organic Chemistry
 
 A fun fact about me; I disassembled my laptop to see how it worked when I was 13 years old.
 
